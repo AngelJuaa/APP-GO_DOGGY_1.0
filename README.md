@@ -1,11 +1,25 @@
 # APP-GO_DOGGY_1.0
-Go Doggy es una plataforma integral diseñada para simplificar la vida de los dueños de mascotas. Nuestra misión es conectar a propietarios de perros con paseadores certificados y cuidadores de confianza en su área local, garantizando seguridad y bienestar en cada paso.
+Go Doggy 🐾
+Go Doggy es una plataforma integral diseñada para conectar a dueños de mascotas con paseadores certificados y de confianza. Enfocada en la seguridad y la tranquilidad, la aplicación permite gestionar el bienestar de los perros de manera eficiente y moderna.
 
-Características Principales
-Geolocalización en tiempo real: Rastrea el paseo de tu perro desde tu móvil.
+🚀 Características Principales
+Geolocalización en Tiempo Real: Rastreo GPS del recorrido exacto de tu mascota durante su paseo.
 
-Reserva instantánea: Agenda servicios de cuidado por horas o días.
+Perfiles Detallados: Registro de salud, dieta, nivel de energía y comportamiento de cada perro.
 
-Perfil de Mascota: Historial médico, preferencias alimenticias y nivel de energía.
+Pagos Seguros: Pasarela de pago integrada para transacciones rápidas y transparentes.
 
-Sistema de Ratings: Comunidad basada en la confianza y reseñas reales.
+Comunidad y Reviews: Sistema de calificación para asegurar la calidad de los cuidadores.
+
+🛠️ Stack Tecnológico
+Este proyecto utiliza tecnologías modernas para garantizar escalabilidad y rendimiento:
+
+Frontend: [Ej: React.js / Next.js] - Interfaz de usuario reactiva y optimizada.
+
+Mobile: [Ej: React Native / Expo] - Aplicación nativa para iOS y Android.
+
+Backend: [Ej: Node.js con Express / FastAPI] - API robusta y segura.
+
+Base de Datos: [Ej: PostgreSQL] - Almacenamiento eficiente de usuarios, rutas y mascotas.
+
+Infraestructura: [Ej:Firebase] - Autenticación y almacenamiento de imágenes.
